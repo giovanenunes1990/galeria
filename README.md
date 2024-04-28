@@ -1,5 +1,10 @@
 # Pequeno E-commerce React Native
 
+![Histórico](src/assets/images/1.jpg)
+![Logout](src/assets/images/2.jpg)
+![Seleção](src/assets/images/3.jpg)
+![Carrinho](src/assets/images/4.jpg)
+
 # Como Rodar o Projeto
 Siga estas instruções para rodar o projeto em sua máquina local.
 
