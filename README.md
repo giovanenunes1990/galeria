@@ -26,8 +26,7 @@ Substitua seu-usuario pelo seu nome de usuário do GitHub e nome-do-repositorio 
 Instale as Dependências e navegue até o diretório do projeto e instale as dependências usando npm ou yarn:
 
 ```bash
- cd nome-do-repositorio
- npm install
+  npm install
 ```
 ou 
 ```bash
