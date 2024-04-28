@@ -1,9 +1,12 @@
 # Pequeno E-commerce React Native
 
-![Histórico](src/assets/images/1.jpg)
-![Logout](src/assets/images/2.jpg)
-![Seleção](src/assets/images/3.jpg)
-![Carrinho](src/assets/images/4.jpg)
+<div align="center">
+  <img src="src/assets/images/1.jpg" width="400" height="600" />
+  <img src="src/assets/images/2.jpg" width="400" height="600" />
+  <img src="src/assets/images/3.jpg" width="400" height="600" />
+  <img src="src/assets/images/4.jpg" width="400" height="600" />
+  
+</div>
 
 # Como Rodar o Projeto
 Siga estas instruções para rodar o projeto em sua máquina local.
