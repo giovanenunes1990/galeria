@@ -1,10 +1,10 @@
 # Pequeno E-commerce React Native
 
 <div align="center">
-  <img src="src/assets/images/1.jpg" width="400" height="600" />
-  <img src="src/assets/images/2.jpg" width="400" height="600" />
-  <img src="src/assets/images/3.jpg" width="400" height="600" />
-  <img src="src/assets/images/4.jpg" width="400" height="600" />
+  <img src="src/assets/images/1.jpg" width="360" height="730" />
+  <img src="src/assets/images/2.jpeg" width="360" height="730" />
+  <img src="src/assets/images/3.jpg" width="360" height="730" />
+  <img src="src/assets/images/4.jpg" width="360" height="730" />
   
 </div>
 
