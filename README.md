@@ -20,14 +20,19 @@ React Native CLI
 
 Clone este repositório em sua máquina local usando o seguinte comando:
 
-``` git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```bash
+ git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
 
 Substitua seu-usuario pelo seu nome de usuário do GitHub e nome-do-repositorio pelo nome do seu repositório.
-Instale as Dependências e navegue até o diretório do projeto e instale as dependências usando npm ou yarn:
+Instale as Dependências e navegue até o diretório do projeto e instale as dependências usando npm ou yarn.
+
 
 ```bash
-  npm install
+ cd nome-do-repositorio 
+ npm install
 ```
+
 ou 
 ```bash
  yarn install
